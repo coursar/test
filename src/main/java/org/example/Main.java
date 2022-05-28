@@ -2,7 +2,6 @@ package org.example;
 
 public class Main {
   public static void main(String[] args) {
-    System.out.println("hello home");
-    System.out.println("hello classroom");
+    System.out.println("hello home, classroom");
   }
 }
